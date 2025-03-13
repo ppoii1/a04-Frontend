@@ -1,0 +1,31 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  position: relative;
+  
+}
+
+.overlay {
+  text-align: center;
+  background: rgba(0, 0, 0, 0.5); 
+  padding: 20px;
+  z-index: 10;
+  position: relative;
+  top: 100px;
+}
+
+.heading {
+  font-size: 36px;
+  margin: 0;
+}
+
+.text {
+  font-size: 18px;
+}
+
+  
